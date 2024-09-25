@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-astro-starter2
+owner: syrusakbary
+package: .
